@@ -1,4 +1,4 @@
-package com.packages.tiendamascota.Models;
+package com.tiendamascotas.Models;
 
 import javax.persistence.*;
 

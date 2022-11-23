@@ -1,6 +1,6 @@
-package com.packages.tiendamascota.Repositories;
+package com.tiendamascotas.Repositories;
 
-import com.packages.tiendamascota.Models.Factura;
+import com.tiendamascotas.Models.Factura;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface FacturaRepo extends JpaRepository<Factura, Long> {

@@ -1,6 +1,7 @@
-package com.packages.tiendamascota.Repositories;
+package com.tiendamascotas.Repositories;
 
-import com.packages.tiendamascota.Models.Pedido;
+
+import com.tiendamascotas.Models.Pedido;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface PedidoRepo extends JpaRepository<Pedido, Long> {

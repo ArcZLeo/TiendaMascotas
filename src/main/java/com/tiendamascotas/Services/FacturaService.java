@@ -1,4 +1,4 @@
-package com.packages.tiendamascota.Services;
+package com.tiendamascotas.Services;
 
 public class FacturaService {
 }

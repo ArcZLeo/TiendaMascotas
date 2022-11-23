@@ -1,6 +1,7 @@
-package com.packages.tiendamascota.Repositories;
+package com.tiendamascotas.Repositories;
 
-import com.packages.tiendamascota.Models.Carrito;
+
+import com.tiendamascotas.Models.Carrito;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CarritoRepo extends JpaRepository<Carrito, Long> {
